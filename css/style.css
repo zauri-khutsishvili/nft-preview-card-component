@@ -23,6 +23,7 @@ body {
     font-family: 'Outfit', sans-serif;
     color: var(--soft-blue);
     background-color: var(--very-dark-blue-main-bg);
+    overflow: hidden;
 }
 
 img {
