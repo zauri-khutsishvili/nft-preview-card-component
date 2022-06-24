@@ -171,25 +171,6 @@ img {
     color: var(--cyan);
 }
 
-.attribution {
-    position: absolute;
-    bottom: 0;
-    font-size: 1.35rem;
-    color: hsl(215, 20%, 38%);
-    text-align: center;
-    margin-bottom: 1em;
-}
-
-.attribution a {
-    color: hsla(215, 51%, 70%, .55);
-    transition: .125s;
-    text-decoration: none;
-}
-
-.attribution a:hover {
-    color: var(--soft-blue);
-}
-
 @media (max-width: 380px) {
     .card {
         max-width: 32.7rem;
@@ -230,4 +211,23 @@ img {
         font-size: 1.52rem;
         margin-top: .2rem;
     }
+}
+
+.attribution {
+    position: absolute;
+    bottom: 0;
+    font-size: 1.35rem;
+    color: hsl(215, 20%, 38%);
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.attribution a {
+    color: hsla(215, 51%, 70%, .55);
+    transition: .125s;
+    text-decoration: none;
+}
+
+.attribution a:hover {
+    color: var(--soft-blue);
 }
