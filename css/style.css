@@ -120,8 +120,8 @@ img {
     justify-content: space-between;
     flex-wrap: wrap;
     gap: .3rem 1rem;
-    margin-top: 2.3rem;
-    margin-bottom: 2.4rem;
+    margin-top: 2.2rem;
+    margin-bottom: 2.5rem;
 }
 
 .card__price div {
