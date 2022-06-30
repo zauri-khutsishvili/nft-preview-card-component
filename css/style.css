@@ -95,6 +95,7 @@ img {
     font-size: 2.2rem;
     font-weight: 600;
     color: var(--white);
+    letter-spacing: 0.001em;
     display: inline-block;
     margin-top: 2.4rem;
     cursor: pointer;
@@ -109,6 +110,7 @@ img {
     font-size: 1.8rem;
     font-weight: 300;
     line-height: 2.6rem;
+    letter-spacing: 0.001em;
     margin-top: 1.6rem;
     margin-bottom: 2.272rem;
     color: var(--soft-blue);
@@ -202,7 +204,7 @@ img {
     }
 
     .card__title {
-        margin-top: 1.2rem;
+        margin-top: 2.4rem;
     }
 
     .card__description {
