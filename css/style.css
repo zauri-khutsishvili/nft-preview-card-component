@@ -120,8 +120,8 @@ img {
     justify-content: space-between;
     flex-wrap: wrap;
     gap: .3rem 1rem;
-    margin-top: 2.2rem;
-    margin-bottom: 2.5rem;
+    margin-top: 2.4rem;
+    margin-bottom: 2.4rem;
 }
 
 .card__price div {
@@ -176,6 +176,7 @@ img {
     font-weight: 400;
     color: var(--soft-blue);
     display: inline;
+    margin-top: -0.2rem;
 }
 
 .card__artist-text a {
