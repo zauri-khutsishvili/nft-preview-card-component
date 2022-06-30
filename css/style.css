@@ -96,7 +96,7 @@ img {
     font-weight: 600;
     color: var(--white);
     display: inline-block;
-    margin-top: 2.3rem;
+    margin-top: 2.4rem;
     cursor: pointer;
     transition: .125s ease-in-out;
 }
@@ -109,7 +109,7 @@ img {
     font-size: 1.8rem;
     font-weight: 300;
     line-height: 2.6rem;
-    margin-top: 1.7rem;
+    margin-top: 1.6rem;
     margin-bottom: 2.272rem;
     color: var(--soft-blue);
 }
