@@ -109,7 +109,7 @@ img {
 .card__description {
     font-size: 1.8rem;
     font-weight: 300;
-    line-height: 2.6rem;
+    line-height: 1.45em;
     letter-spacing: 0.001em;
     margin-top: 1.6rem;
     margin-bottom: 2.272rem;
@@ -134,7 +134,7 @@ img {
 .card__ethereum {
     font-size: 1.6rem;
     font-weight: 600;
-    letter-spacing: 0.02rem;
+    letter-spacing: 0.012em;
     color: cyan;
     display: inline;
 }
@@ -143,7 +143,7 @@ img {
     font-size: 1.6rem;
     font-weight: 400;
     color: var(--soft-blue);
-    letter-spacing: 0.01rem;
+    letter-spacing: 0.012rem;
     display: inline;
     margin-right: .16rem;
 }
@@ -209,7 +209,8 @@ img {
 
     .card__description {
         font-size: 1.6rem;
-        margin-top: 1.2rem;
+        line-height: 1.6em;
+        margin-top: 1.3rem;
         margin-bottom: 1.6rem;
     }
 
@@ -220,7 +221,7 @@ img {
 
     .card__ethereum {
         font-size: 1.5rem;
-        letter-spacing: 0.01rem;
+        letter-spacing: 0.011em;
     }
 
     .card__time-left {
