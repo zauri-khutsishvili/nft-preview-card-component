@@ -22,6 +22,7 @@ body {
     color: var(--soft-blue);
     background-color: var(--very-dark-blue-main-bg);
     height: 100vh;
+    min-height: 70.4rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
