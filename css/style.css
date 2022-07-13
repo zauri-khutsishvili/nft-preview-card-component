@@ -14,7 +14,7 @@
 }
 
 html {
-    font-size: 10px;
+    font-size: 62.5%;
     box-sizing: border-box;
 }
 
@@ -38,7 +38,7 @@ img {
 .card {
     max-width: 35rem;
     height: 59.6rem;
-    padding: 2.4rem;
+    padding: 2.4em;
     font-family: 'Outfit', sans-serif;
     border-radius: 1.5rem;
     background-color: var(--very-dark-blue-card-bg);
@@ -193,7 +193,7 @@ img {
     color: var(--cyan);
 }
 
-@media (max-width: 380px) {
+@media (max-width: 23.75em) {
     body {
         margin: 0 6.4%;
     }
